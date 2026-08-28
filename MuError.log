@@ -1,0 +1,260 @@
+î	Øôú`žè–äÆtƒH;3ŸÌEA0ú\R“™Ùòz—ïðËy_ñ³Y±•˜ñM7U8ÜõþaÄ$Få
+®ïðÞ°±Iôƒ~âÂ³¢‰Eˆ¨²×ƒ"K/…Q€ïñˆHáíú\õÒg¢Yÿ‰ÎüÓïú^çÂ"ES[€õðÍ!èïò†2X¡MÒ¾µ‰E“°©½Óf]åÞ£åÐÉ¡¢§ÖbFß4Ì£ÙÐÔï¿nð‡8OS»P›÷µÌ	ÞâúNàÌ[  ·P–£ÇÚÈäìI³±3X·LÒÏüÌ“Œ•>[ •¾ùÒB7¯|?(Ü½ï\q ½]™æáŸ?ÑîìX÷¿i·_€£ÅÞÖäëlæ‡#O.ß4
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.03c (Eng) executed. (1.3.3.0)
+2026/08/28 12:04
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: GenuineIntel - Pentium Pro 2400Mhz
+RAM 			: 2048MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+[Multi Client] Check cmd line :  / web starter Param :  !! 
+> To read config.ini.
+-- ±Û·Î¹úÆ÷Å» ÃÊ±âÈ­ -- 
+[Global System] Å°Á¤º¸ ¼³Á¤ ÇÔ¼ö Áßº¹ È£Ãâ  -1 /  
+> gg init success.
+-------------------------------------------------------------------------------------
+> Enum display settings.
+> Screen size = 800 x 600.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+<OpenGL information>
+Vendor		: Intel
+Render		: Intel(R) HD Graphics 520
+OpenGL version	: 4.6.0 - Build 31.0.101.2111
+Max Texture size	: 16384 x 16384
+Max Viewport size	: 16384 x 16384
+-------------------------------------------------------------------------------------
+<Sound card information>
+Sound Card 		: Altavoces (Realtek High Definition Audio)
+Sound Card Driver	: {0.0.0.00000000}.{32e368fb-add4-4b5e-a71b-2a48ad8dc221} (504.0.5.0)
+-------------------------------------------------------------------------------------
+> gg connect Window Handle.
+-------------------------------------------------------------------------------------
+<IME information>
+IME Name		: 
+IME File Name		: 
+Keyboard type		: 0000080A
+-------------------------------------------------------------------------------------
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/QuestWords_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/MasterSkillTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.map file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\Effect\Shiny04.jpg(0x00007D76)->Data\Effect\Shiny05.jpg
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/QuestWords_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/MasterSkillTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.map file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/QuestWords_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/MasterSkillTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.map file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\Interface\newui_item_back01.tga(0x00007A79)->Data\Interface\newui_item_back04.tga
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\Interface\newui_item_back04.tga(0x00007A79)->Data\Interface\newui_item_back01.tga
+> Loading ok.
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World74\leaf01.tga(0x00007695)->Data\World74\leaf01.jpg
+[Connect to Server] ip address = 69.169.107.70, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+Success Receive Server List.
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 69.169.107.70, port = 56900
+> Login Request.
+> Try to Login "joseph"
+> Request Character list
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World74\leaf01.jpg(0x00007695)->Data\World75\leaf01.tga
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World75\leaf01.tga(0x00007695)->Data\World75\leaf01.jpg
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World74\leaf02.jpg(0x00007696)->Data\World75\leaf02.jpg
+> Character scene init success.
+> Character selected <1> "Joseph"
+> Main Scene init success. 2026/08/28 12:04
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World75\leaf01.jpg(0x00007695)->Data\World3\leaf01.tga
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World3\leaf01.tga(0x00007695)->Data\World3\leaf01.jpg
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World75\leaf02.jpg(0x00007696)->Data\World3\leaf02.jpg
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/QuestWords_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/MasterSkillTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.map file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World3\leaf01.jpg(0x00007695)->Data\World1\leaf01.tga
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World1\leaf01.tga(0x00007695)->Data\World1\leaf01.jpg
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World3\leaf02.jpg(0x00007696)->Data\World1\leaf02.jpg
+
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.03c (Eng) executed. (1.3.3.0)
+2026/08/28 12:44
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: GenuineIntel - Pentium Pro 2399Mhz
+RAM 			: 2048MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+[Multi Client] Check cmd line :  / web starter Param :  !! 
+> To read config.ini.
+-- ±Û·Î¹úÆ÷Å» ÃÊ±âÈ­ -- 
+[Global System] Å°Á¤º¸ ¼³Á¤ ÇÔ¼ö Áßº¹ È£Ãâ  -1 /  
+> gg init success.
+-------------------------------------------------------------------------------------
+> Enum display settings.
+> Screen size = 800 x 600.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+<OpenGL information>
+Vendor		: Intel
+Render		: Intel(R) HD Graphics 520
+OpenGL version	: 4.6.0 - Build 31.0.101.2111
+Max Texture size	: 16384 x 16384
+Max Viewport size	: 16384 x 16384
+-------------------------------------------------------------------------------------
+<Sound card information>
+Sound Card 		: Altavoces (Realtek High Definition Audio)
+Sound Card Driver	: {0.0.0.00000000}.{32e368fb-add4-4b5e-a71b-2a48ad8dc221} (504.0.5.0)
+-------------------------------------------------------------------------------------
+> gg connect Window Handle.
+-------------------------------------------------------------------------------------
+<IME information>
+IME Name		: 
+IME File Name		: 
+Keyboard type		: 0000080A
+-------------------------------------------------------------------------------------
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/QuestWords_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/MasterSkillTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.map file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\Effect\Shiny04.jpg(0x00007D76)->Data\Effect\Shiny05.jpg
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/QuestWords_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/MasterSkillTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.map file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/QuestWords_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/MasterSkillTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.map file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\Interface\newui_item_back01.tga(0x00007A79)->Data\Interface\newui_item_back04.tga
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\Interface\newui_item_back04.tga(0x00007A79)->Data\Interface\newui_item_back01.tga
+> Loading ok.
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World74\leaf01.tga(0x00007695)->Data\World74\leaf01.jpg
+[Connect to Server] ip address = 69.169.107.70, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+Success Receive Server List.
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 69.169.107.70, port = 56900
+> Login Request.
+> Try to Login "joseph"
+> Request Character list
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World74\leaf01.jpg(0x00007695)->Data\World75\leaf01.tga
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World75\leaf01.tga(0x00007695)->Data\World75\leaf01.jpg
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World74\leaf02.jpg(0x00007696)->Data\World75\leaf02.jpg
+> Character scene init success.
+> Character selected <1> "Joseph"
+> Main Scene init success. 2026/08/28 12:44
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World75\leaf01.jpg(0x00007695)->Data\World1\leaf01.tga
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World1\leaf01.tga(0x00007695)->Data\World1\leaf01.jpg
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World75\leaf02.jpg(0x00007696)->Data\World1\leaf02.jpg
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/QuestWords_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/MasterSkillTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.map file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World4\leaf01.tga(0x00007695)->Data\World4\leaf01.jpg
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World39\leaf01.tga(0x00007695)->Data\World39\leaf01.jpg
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World1\leaf01.tga(0x00007695)->Data\World1\leaf01.jpg
+ÀÎµ¦½º¸¦ °øÀ¯ÇÏ°Å³ª Delete¾øÀÌ »ç¿ëÇÏ¿´À½Data\World39\leaf02.jpg(0x00007696)->Data\World1\leaf02.jpg
