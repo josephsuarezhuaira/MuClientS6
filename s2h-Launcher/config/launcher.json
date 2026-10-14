@@ -1,0 +1,10 @@
+﻿{
+  "ManifestUrl": "https://mu-continent.net/launcher/update/manifest.json",
+  "PatchBaseUrl": "https://mu-continent.net/launcher/update/",
+  "WebLeftUrl": "https://mu-continent.net/launcher/web/s2hLeft.html",
+  "WebRightUrl": "https://mu-continent.net/launcher/web/s2hRight.html",
+  "LauncherMutex": "MuContinentS6",
+  "LicenseKey": "S2H-TAFB-BFAT-JLSE",
+  "Domain": "mu-continent.net"
+}
+
